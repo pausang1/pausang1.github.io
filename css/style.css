@@ -5,7 +5,7 @@ body {margin:0;}
   position: fixed;
   top: 0;
   color: #FFFFFF;
-  background-color: ##e6e600;
+  background-color: #FFFFFF;
   width: 100%;
   list-style: none;
   margin: auto;
@@ -62,4 +62,3 @@ body {margin:0;}
 .clearfix p {
   font-size:1vw
 }
-Footer
